@@ -1,0 +1,12 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "typescript challenges",
+  "main": "index.js",
+  "repository": "https://github.com/brembo97/type-challenges.git",
+  "author": "Emilio Brenes",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
